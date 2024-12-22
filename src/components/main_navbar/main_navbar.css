@@ -1,0 +1,11 @@
+.main_layout_btn {
+  background: linear-gradient(90deg, #4A80EE 0%, #1F48A5 100.93%);
+}
+
+.main_nav_links.active {
+  background: rgba(53, 130, 246, 0.2);
+}
+
+.removeBg {
+  background: transparent !important;
+}

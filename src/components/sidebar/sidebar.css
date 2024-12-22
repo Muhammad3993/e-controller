@@ -1,0 +1,7 @@
+.sidebar {
+  height: calc(100vh - 72px);
+}
+
+.sidebar_link.active {
+  background: linear-gradient(90deg, rgba(70, 127, 255, 0.2) 0%, rgba(164, 20, 255, 0.2) 100.93%);
+}
